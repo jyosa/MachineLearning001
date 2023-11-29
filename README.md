@@ -34,6 +34,8 @@ El contenido se organiza en diferentes módulos, cada uno dedicado a un tema esp
 
 Cada módulo incluye lecciones teóricas, ejemplos de código, ejercicios prácticos, y proyectos para consolidar tu aprendizaje.
 
+Ejercicio 1. Cluster análisis [k-means](ruta al archivo)
+
 ## Contribuciones
 
 ¡Tus contribuciones son bienvenidas! Si deseas agregar contenido, corregir errores o mejorar las explicaciones, no dudes en realizar un pull request o abrir un issue. Juntos podemos hacer de este repositorio un recurso valioso para todos los que desean aprender y mejorar sus habilidades en aprendizaje automático con Python.

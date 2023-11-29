@@ -34,7 +34,7 @@ El contenido se organiza en diferentes módulos, cada uno dedicado a un tema esp
 
 Cada módulo incluye lecciones teóricas, ejemplos de código, ejercicios prácticos, y proyectos para consolidar tu aprendizaje.
 
-Ejercicio 1. Cluster análisis [k-means](ruta al archivo)
+Ejercicio 1. Cluster análisis [k-means]([ruta al archivo](https://github.com/jyosa/MachineLearning001/blob/main/cluster.ipynb))
 
 ## Contribuciones
 

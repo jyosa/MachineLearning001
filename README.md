@@ -1,5 +1,4 @@
 # MachineLearning001
-
 # Lecciones de Aprendizaje Automático con Python
 
 Bienvenido al repositorio de GitHub donde ofrecemos lecciones completas y detalladas sobre Aprendizaje Automático (Machine Learning) utilizando Python. Este repositorio está diseñado para guiar a estudiantes, entusiastas y profesionales a través del fascinante mundo del aprendizaje automático, utilizando ejemplos prácticos con datos reales en entornos realistas.

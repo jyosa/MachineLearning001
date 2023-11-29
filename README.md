@@ -45,6 +45,11 @@ Ejercicio 1. Cluster análisis - Categorización de Estilos Musicales Mediante T
 
 Este repositorio está licenciado bajo [MIT License](LICENSE). Esto significa que eres libre de usar, compartir y adaptar el contenido, siempre que proporciones el crédito apropiado y no lo utilices para fines comerciales.
 
+
+### Powered by ThinKAI thinkai.col@gmail.com
+
+Juvenal Yosa PhD.
+
 ---
 
 ¡Gracias por visitar nuestro repositorio! Esperamos que encuentres estos recursos útiles en tu viaje de aprendizaje y desarrollo profesional en el campo del aprendizaje automático con Python.
